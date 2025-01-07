@@ -1,0 +1,141 @@
+point_num,point_name,location,road,UTM_northing,UTM_easting,elevation,HIB100,HIB200,HIB500,LIB100,LIB200,LIB500,H100,H200,H500,ave_low,ave_high,ave_mean,forest_canopy_cover
+1,South Gate,Wolf Laurel,South Gate,3979940,363408,1153.95,0,4,5,0,2,8,6,13,46,13.7,21.3,17.1,0.56
+2,Hampton Gap,Wolf Laurel,Hampton Gap,3981430,364009,1318.56,0,0,0,0,1,6,6,15,50,15,20,17.2,0.62
+3,Cottage,Wolf Laurel,Cottage Lane,3981100,364545,1368.47,0,3,11,0,0,3,7,15,44,14.4,21.2,17.2,0.52
+4,Granny Lewis Bend,Wolf Laurel,Granny Lewis,3981970,364436,1453.6,0,1,7,0,0,7,5,11,50,13.8,19.2,16.2,0.61
+5,Country Club,Wolf Laurel,Wolf Laurel,3981610,364576,1363.95,2,6,18,0,2,4,0,5,46,14.3,20.2,17.2,0.49
+6,Granny Lewis West,Wolf Laurel,Granny Lewis,3982350,364029,1421.94,0,0,0,0,0,5,1,8,34,12.8,23.2,16.8,0.74
+7,Birch Springs,Wolf Laurel,Birch Springs,3981180,365546,1508.81,0,0,0,0,1,1,2,7,32,14,20.2,16.6,0.77
+8,Goldenleaf,Wolf Laurel,Goldenleaf,3983380,365552,1296.58,0,0,0,1,1,4,1,3,20,14.9,20.3,17.3,0.69
+9,Overlook,Wolf Laurel,Overlook,3980160,365766,1397.74,0,0,0,0,0,2,3,7,22,14.6,20.5,17.2,0.72
+10,Running Cedar,Wolf Laurel,Running Cedar,3979870,366215,1342.98,0,0,0,0,0,1,1,3,9,14.3,21,17.3,0.51
+11,Panther Intersection,Wolf Laurel,Panther Knob,3982470,366049,1348.02,0,0,0,0,0,1,0,0,11,14.5,19.8,16.7,0.75
+12,Bear Run,Wolf Laurel,Bear Run,3980260,366579,1223.95,0,0,0,0,0,0,0,0,0,15.2,23.3,18.3,0.66
+13,Lot 44,Wolf Laurel,Bear Run,3979920,366489,1231.51,0,0,0,0,0,0,0,1,7,15,21.6,17.9,0.62
+14,Panther End,Wolf Laurel,Panther Knob,3982590,366769,1363.13,0,0,0,0,0,0,0,0,0,14.7,19,16.7,0.82
+15,Big Bald,Wolf Laurel,Angelico Ridge,3983800,365781,1625.5,0,0,0,0,0,0,0,0,3,12.6,18.3,15.2,0.5
+16,Ridgeway ,Mars Hill,Ridgeway Road,3967690,359608,759.84,0,0,3,0,4,16,7,16,41,15.8,24.4,19.8,0.5
+17,Valley ,Mars Hill,Valley Road,3966720,360636,740.04,0,0,0,2,13,34,7,29,124,15.7,24.3,19.3,0.52
+18,Gibson Hall,Mars Hill,Dormitory Road,3965540,360020,726.71,1,8,71,1,1,8,0,5,21,16.2,25.3,20.4,0.4
+19,Woodland,Mars Hill,Woodland Drive,3966270,360910,741.89,0,0,0,0,2,17,6,18,125,16.1,24.3,19.9,0.54
+20,Westridge,Mars Hill,Westridge Road,3964150,360196,692.52,0,0,2,0,2,21,5,11,54,15.9,25.6,20.2,0.6
+21,Laurel Wood,Mars Hill,Laurel Wood Road,3967970,359642,794.9,0,0,3,0,0,15,2,7,32,16.6,24,20,0.66
+22,Duck,Mars Hill,Duck Road,3965270,359942,770.51,0,0,15,1,3,7,1,3,24,16.4,24.2,20,0.73
+23,Quail Ridge,Mars Hill,Quail Ridge Road,3964500,359981,706.85,0,0,0,0,0,7,2,12,38,15.6,24.2,19.6,0.66
+24,River Bend,Mars Hill,River Bend Drive,3962000,358874,668.89,0,0,0,0,1,7,3,5,17,16,24.2,19.7,0.8
+25,Banjo Branch,Mars Hill,Banjo Branch Road,3968280,359318,771.06,0,0,0,1,5,17,3,7,22,16,23.9,19.4,0.55
+26,Bend of Ivy,Mars Hill,Bend of Ivy,3962200,354130,550.93,0,0,0,0,0,4,0,0,9,15.6,26.4,19.9,0.68
+27,Windswept Ridge,Mars Hill,Windspept Ridge Road,3963200,352650,697.55,0,0,0,0,1,12,0,0,18,16.3,24.6,20.3,0.7
+28,Forks of Ivy,Mars Hill,Forks of Ivy Road,3961850,360040,593.81,0,0,0,0,0,3,0,0,5,15.1,25.5,19.9,0.75
+29,Long Ridge,Mars Hill,Long Ridge Road,3963420,360538,670.36,0,0,0,0,0,20,0,2,29,15.9,25.2,20.1,0.57
+30,Park,Mars Hill,Park Drive,3964790,359384,685.56,0,0,1,0,0,14,0,1,16,15,25.5,19.6,0.48
+31,Christie,Beech Mountain,Christie Way,4005140,421402,1533.59,1,6,29,0,0,36,11,28,119,13,20,15.9,0.27
+32,Charter Hills,Beech Mountain,Charter Hills,4006170,422318,1455.43,0,0,0,0,1,3,9,37,134,13.6,19.9,16.4,0.47
+33,Lower Grouse,Beech Mountain,Lower Grouse Ridge Road,4007690,421714,1334.12,0,0,0,0,0,1,7,21,77,14.6,20.8,17.2,0.55
+34,Lake,Beech Mountain,Lake Road,4006870,420865,1364.46,0,0,6,0,1,7,6,26,135,13.9,19.7,16.7,0.55
+35,Mariah Circle,Beech Mountain,Mariah Circle,4006630,420352,1497.16,0,0,0,1,1,6,26,53,204,13.1,19.1,15.7,0.54
+36,Staghorn Hollow,Beech Mountain,Staghorn Hollow,4006670,422251,1375.74,0,0,0,0,1,4,9,30,144,13.9,19.9,16.8,0.53
+37,Lee,Beech Mountain,Rainbow's End,4007900,421844,1257.64,0,0,0,0,0,0,1,3,53,15.3,21.2,17.8,0.53
+38,Hoot Owl,Beech Mountain,Locust Ridge,4007520,421483,1247.8,0,0,0,0,0,3,4,11,69,13.9,19.9,16.9,0.64
+39,Quail-Beech Intersection,Beech Mountain,Beech Mountain Road,4006410,419639,1398.29,0,0,0,0,0,2,1,3,30,13.5,19.7,16.4,0.6
+40,Hummingbird,Beech Mountain,Beech Mountain Road,4006720,420050,1423.68,0,0,0,0,0,5,2,19,182,13.3,18.8,15.8,0.51
+41,Wild Daisy,Beech Mountain,Wild Daisy,4007230,422695,1316.83,0,0,0,0,0,0,0,0,13,13.8,19.9,16.7,0.76
+42,Beech Creek,Beech Mountain,Private Road off Wild Daisy,4008260,421880,1136.89,0,0,0,0,0,0,0,0,4,13.7,20.5,16.8,0.64
+43,Locust Ridge,Beech Mountain,Locust Ridge Road,4008510,421326,1167.55,0,0,0,0,1,2,0,1,6,15.1,21.3,18,0.75
+44,Beech End,Beech Mountain,Beech Mountain Road,4006480,419212,1375.04,0,0,0,0,0,1,0,0,2,12.9,22.2,16.7,0.43
+45,Fox Crest,Beech Mountain,Fox Crest Road,4005780,420301,1534.04,0,0,0,0,0,1,0,0,24,12.1,19.5,15.4,0.61
+46,Hillcrest,Spruce Pine,Hillcrest,3974940,402786,802.79,0,0,13,2,2,11,9,26,75,15.5,25.4,20.2,0.49
+47,Phillips,Spruce Pine,Phillips,3975480,403046,785.05,0,2,20,0,2,8,9,20,53,15.5,26.2,20.4,0.36
+48,Creed Pitman,Spruce Pine,Creed Pitman,3975370,402423,771.03,0,0,1,0,0,5,4,14,49,15,27.4,20.7,0.46
+49,Pine,Spruce Pine,Pine Street,3975330,403851,808.15,0,1,34,0,3,12,15,32,82,15.5,29.4,21.2,0.37
+50,Green,Spruce Pine,Green Street,3974050,403311,829.03,0,0,2,0,2,8,10,20,64,15.1,23.3,19.1,0.54
+51,Robinson,Spruce Pine,Robinson,3972180,408442,817.89,0,0,0,1,10,28,3,9,48,15.3,24.8,19.6,0.59
+52,Rogers,Spruce Pine,Rogers,3973610,403286,848.14,0,0,5,0,4,10,4,11,47,15.3,24.4,19.4,0.47
+53,Temple Mountain,Spruce Pine,Temple Mountain,3974480,405580,792.66,0,0,0,0,0,6,0,0,18,15.1,23.6,19.2,0.82
+54,Semi Turnabout,Spruce Pine,Altpass,3974340,405276,777.89,0,0,0,0,0,5,1,4,19,14.6,23.7,18.9,0.66
+55,Davenport,Spruce Pine,Davenport,3973220,407714,798.58,0,0,0,0,0,4,0,11,34,14.9,23.4,18.9,0.57
+56,Halltown,Spruce Pine,Halltown Road,3973100,406763,788.57,0,0,0,0,0,2,0,0,4,14.5,24.5,19.2,0.5
+57,Pepper’s North,Spruce Pine,Pepper's Mill,3971430,408240,796.74,0,0,0,0,0,0,0,0,1,15.7,23.7,19.4,0.77
+58,Pepper’s South,Spruce Pine,Pepper's Mill,3970930,408075,738.61,0,0,0,0,0,0,0,0,0,16.5,23.2,19.6,0.77
+59,Pepper’s Middle,Spruce Pine,Pepper's Mill,3971190,408153,779.38,0,0,0,0,0,0,0,0,0,16.3,22.8,19.4,0.42
+60,Altpass Bend ,Spruce Pine,Altpass,3971690,408707,838.69,0,0,0,0,0,8,0,1,15,14.7,22.9,18.7,0.73
+61,Slickrock North,Mountain Air,Slickrock Ridge Way North,3970780,378457,1291.32,0,0,5,0,0,2,10,17,95,14.8,19.9,17.3,0.42
+62,Brandy Run,Mountain Air,Brandy Run,3971110,378358,1182.38,0,0,0,0,0,3,9,24,75,15.8,21.3,18.3,0.42
+63,Stony Falls,Mountain Air,Stony Falls Loop,3971460,378475,1180.26,0,0,0,0,0,2,5,12,61,16,22.3,18.9,0.59
+64,Boulder Pass,Mountain Air,Boulder Pass,3970820,379083,1259.87,0,0,0,0,0,6,12,14,32,15.1,19.8,17.2,0.65
+65,Ivy Point,Mountain Air,Rhododendron  Road,3970710,378693,1266.66,0,0,5,0,0,7,14,24,84,15.2,22.5,18.2,0.55
+66,Mountain Air Well,Mountain Air,Mountain Air Drive,3970150,378336,1269.1,0,0,5,1,1,2,1,4,57,14.8,20.8,17.4,0.58
+67,Sunset Point ,Mountain Air,Sunset Point Road,3969830,378048,1263.84,0,0,0,2,2,11,2,10,35,14.8,21,17.6,0.6
+68,Apple Brandy,Mountain Air,Apple Brandy Way,3971360,378205,1177.05,0,0,0,0,1,6,2,8,77,15.4,21.2,18.2,0.5
+69,Heritage Ridge,Mountain Air,Heritage Ridge Road,3971810,378513,1136.7,0,0,0,0,0,3,2,6,37,16.2,23.3,19.2,0.6
+70,Rockyknob,Mountain Air,Rockyknob,3971870,377615,1134.42,0,0,0,0,0,4,3,6,24,16.2,23.7,19.1,0.55
+71,Dry Springs End ,Mountain Air,Driveway off Dry Springs,3971730,377472,1112.28,0,0,0,0,0,0,2,5,19,15.9,21.3,18.3,0.6
+72,Andrew Banks,Mountain Air,Andrew Banks,3970630,377518,1065.02,0,0,2,0,0,0,0,0,8,15.7,22.7,18.7,0.56
+73,Old Growth End,Mountain Air,Old Growth,3969210,378248,1401.28,0,0,1,0,0,0,0,1,4,14.2,20,16.7,0.73
+74,Slickrock Cart Path,Mountain Air,Slickrock Road,3969940,378429,1326.32,0,0,0,0,1,2,0,2,29,15.2,21.3,17.6,0.73
+75,Maintenance Road,Mountain Air,Eden Rock Road,3970990,378710,1194.09,0,0,0,0,0,8,0,2,73,15.5,20.9,18.2,0.5
+76,Hillside,Burnsville,Hillside,3975160,382302,846.85,0,6,57,3,11,43,10,27,89,15.3,25.7,20.3,0.34
+77,Bowditch,Burnsville,Bowditch,3975000,382631,860.3,1,4,26,0,2,17,6,15,50,14.7,24.1,19,0.49
+78,Kimberley,Burnsville,Woodland Hills Road,3974020,378804,819.16,0,0,0,4,11,24,9,21,34,15,25.1,19.5,0.43
+79,Highland Burnsville,Burnsville,Highland Street,3974540,380517,817.37,0,0,4,2,6,48,12,36,109,14.9,26.5,20,0.4
+80,Abby,Burnsville,Abby Lane,3974830,380551,813.72,0,0,6,6,15,54,7,40,120,14.4,26.3,19.9,0.35
+81,Ferguson End,Burnsville,State Highway 197,3974060,382035,799.82,0,0,1,1,3,12,2,5,15,13.9,23.2,18.2,0.58
+82,Pioneer,Burnsville,State Highway 197,3973940,382767,821.73,0,0,0,0,0,11,0,2,14,14.4,23.5,18.8,0.46
+83,Westover,Burnsville,Westover Drive,3974700,382274,866.82,0,0,1,2,3,19,2,5,50,15.3,22.7,18.8,0.74
+84,Mount View,Burnsville,Moiunt View Street,3975150,383201,886.18,0,2,32,1,4,27,3,8,61,15.5,23.2,19.2,0.56
+85,Co Co,Burnsville,Co Co Lane,3973540,379293,808.91,0,0,0,2,5,24,5,10,30,14.7,22.3,18.2,0.4
+86,Cane River Bend,Burnsville,State Highway 197,3973030,380915,802.34,0,0,0,0,0,1,0,0,1,14.8,23.8,18.9,0.84
+87,Cane River South,Burnsville,State Highway 197,3973100,381188,804.47,0,0,0,0,0,6,0,0,5,14.9,24.4,19.1,0.61
+88,Shull Farm,Burnsville,Dam Road,3973970,379887,802.8,0,0,0,0,0,13,0,1,8,14.3,24,18.6,0.66
+89,Whyle Spitz,Burnsville,Whyle Spitz,3974170,380501,821.03,0,0,0,0,1,21,0,2,48,14.9,23.4,18.9,0.56
+90,Cane River North,Burnsville,State Highway 197,3973400,381053,798.41,0,0,0,0,0,2,0,0,4,15.3,24.3,19.2,0.82
+91,Balsam,Grandfather Mountain,Balsam Road,3994140,422898,1165.69,0,0,0,0,0,0,3,13,42,13.9,21.2,17.1,0.67
+92,Bear Creek,Grandfather Mountain,Bear Creek Road,3995190,424171,1249.57,0,0,0,0,0,0,5,9,52,14.5,20.6,17.2,0.57
+93,Twin Creek,Grandfather Mountain,Twin Creek Road,3996080,423747,1189.11,0,0,0,0,0,3,2,12,58,13.3,21.8,16.9,0.6
+94,Island,Grandfather Mountain,Island Drive,3995660,423280,1159.87,0,0,2,0,0,2,10,23,53,14.3,22.7,18.3,0.22
+95,Lock Dorne,Grandfather Mountain,Lock Dorne,3995460,423088,1161.7,0,0,4,0,0,2,5,11,44,13.5,22.2,17.7,0.31
+96,Highland,Grandfather Mountain,Highland,3993650,422630,1203.44,0,0,0,0,0,0,2,6,32,14.3,20.6,17.3,0.87
+97,Hemlock,Grandfather Mountain,Hemlock,3994810,424022,1238.9,0,0,2,0,0,0,1,6,40,14.5,19.5,16.9,0.8
+98,Mountain Springs,Grandfather Mountain,Mountain Springs,3995940,424848,1330.38,0,0,0,0,0,0,1,4,20,13.8,20.6,16.6,0.71
+99,Grassy Creek,Grandfather Mountain,Grassy Creek Road,3996200,424349,1258.28,0,0,0,0,0,0,2,6,40,14,21.8,16.8,0.72
+100,Chestnut,Grandfather Mountain,Chestnut,3996610,423995,1215.96,0,0,0,0,0,1,1,3,18,13.5,20.4,16.9,0.7
+101,Golf Course End ,Grandfather Mountain,Golf Course,3994040,422242,1125.97,0,0,0,0,0,0,0,0,16,12.7,20.7,16.5,0.86
+102,West Fork,Grandfather Mountain,West Fork,3994090,420960,1153.73,0,0,0,0,0,0,0,0,2,13.1,20.8,16.8,0.84
+103,Franklin Farm,Grandfather Mountain,West Fork,3994500,420944,1170.52,0,0,0,0,0,0,0,0,0,12.8,20.2,16.3,0.83
+104,Roseboro,Grandfather Mountain,Roseboro,3990880,422852,1138.66,0,0,0,0,0,0,0,0,0,13.1,23.4,17.9,0.9
+105,Yonah,Grandfather Mountain,Old Yonahlassee Road,3992360,422371,1216.89,0,0,0,0,0,4,0,0,18,14.8,21,17.5,0.84
+106,Big Laurel,Laurel Valley,Laurel Valley Road,3975290,360969,923.31,0,0,2,0,0,2,0,0,2,12.9,22.5,17.4,0.74
+107,Shook,Laurel Valley,Laurel Valley Road,3975080,361535,941.14,0,0,1,0,1,10,5,9,21,13.8,21.2,17.7,0.57
+108,Old Murray,Laurel Valley,Old Murray,3974340,363316,1014.62,0,0,0,0,0,3,1,3,14,14.7,23,18.5,0.53
+109,Windy Gap,Laurel Valley,Laurel Valley Road,3975320,365464,1041.74,0,0,0,0,0,1,1,2,6,12.2,21.2,16.6,0.62
+110,Fox Creek,Laurel Valley,Laurel Valley Road,3975330,366084,973.28,0,0,0,0,0,0,0,0,0,13.6,22.2,17.7,0.61
+111,Lillie Mae,Laurel Valley,Fox Creek Road,3976700,366017,982.26,0,0,0,1,4,7,4,12,28,13.6,23.9,18.1,0.34
+112,Unakite,Wolf Laurel,Unakite,3983150,365090,1469.61,0,0,0,0,1,3,2,9,28,13.7,19.2,16.2,0.71
+113,Lucas,Wolf Laurel,Lucas Lane,3980360,364814,1418.7,0,0,0,0,0,8,7,15,58,14.5,20.8,17,0.6
+114,Freedom Ridge,Mars Hill,Highway 1768,3960980,360090,628.47,0,0,0,2,4,13,2,6,43,15.8,25,19.8,0.65
+115,Savannah Dawn,Mars Hill,Savannah Dawn,3964030,361435,651.61,0,0,0,0,5,12,4,11,20,14.9,25.8,19.8,0.52
+116,Creekside Way,Mountain Air,Creekside way,3971840,378034,1042.61,0,0,0,9,16,16,3,11,45,16,23.8,19.6,0.54
+117,Andrew Banks South,Mountian Air,Andrew Banks,3969900,377711,1130.3,0,0,0,1,3,10,6,8,25,15.8,23.5,19.2,0.45
+118,Banks Creek,Mountain Air,Banks Creek,3970270,378004,1206.32,0,0,0,0,0,11,3,13,51,15.1,20.9,17.5,0.41
+119,Hawk's Ledge,Mountain Air,Hawks Ledge Trail,3970490,378319,1358.62,0,4,5,0,0,2,5,11,79,15.3,25,18.9,0.47
+120,Grinnin' Suns,Mountain Air,Grinnin' Suns Road,3971980,378291,1052.35,0,0,0,0,0,16,5,10,37,16,25.6,19.7,0.61
+121,Wildwood,Burnsville,Wildwood,3970100,379715,1021.67,0,0,0,0,1,2,1,5,14,15.1,22.6,18.3,0.52
+122,Tudy Creek,Burnsville,Wildwood,3969440,379970,915.47,0,0,0,0,0,0,2,3,11,14,22.4,17.6,0.6
+123,Swiss,Burnsville,Swiss Ave.,3975850,382362,869.81,0,0,43,2,8,44,8,31,137,15.1,25.2,19.9,0.38
+124,Chase,Burnsville,Chase Road,3976030,382938,869.13,3,5,36,2,17,56,11,40,148,15.5,25.5,20.3,0.3
+125,Charlie Brown,Burnsville,Charlie Brown,3976400,379939,1003.17,0,0,0,0,0,3,1,2,13,16,22.9,19.3,0.65
+126,St. Andrews,Beech Mountain,St. Andrews,4007840,420562,1317.95,0,0,4,0,1,3,11,25,120,14.3,20,16.8,0.32
+127,Ski Slope,Beech Mountain,Meadowview Road,4004860,421019,1619.41,0,0,11,0,1,12,21,35,65,13.1,18.6,15.7,0.31
+128,Woodwinds,Shull Mill,Woodwinds Circle,4000490,427842,1012.5,0,0,0,0,0,3,13,19,41,15,22.8,18.6,0.42
+129,Snowflake,Shull Mill,Snowflake Road,4001220,430045,946.13,0,0,0,0,0,0,13,21,41,14.5,26.1,20.1,0.57
+130,Indina Paintbrush,Shull Mill,Indian Painbrush,4002420,429913,1133.41,0,0,4,0,0,4,8,28,104,12.7,21.6,17.1,0.31
+131,Clear Sky,Shull Mill,Clear Sky Drive,4002870,430272,1109.12,0,0,0,0,0,0,3,5,37,12.9,19,16.2,0.39
+132,Peaceful Haven,Shull Mill,Peaceful Haven Road,4002810,431410,974.22,0,0,1,0,0,0,4,13,34,13.1,22.2,17.5,0.52
+133,Dogwood,Beech Mountain,Dogwood,4002440,422423,1147.86,0,0,3,0,0,1,7,16,41,14,23.5,18.6,0.42
+134,Rock Brook,Beech Mountain,Rock Brook Court,4001030,419003,1099.65,0,0,2,0,0,1,3,7,49,15,22,18.6,0.67
+135,Cardinal,Beech Mountain,Cardinal,4001460,419895,1076.24,0,0,0,0,0,0,10,20,41,15.9,24.9,20,0.5
+136,Rose Creek,Spruce Pine,Jacksontown Road,3972060,409415,858.16,0,0,0,0,0,1,0,0,1,15,23.3,19,0.74
+137,Sunrise Ridge,Spruce Pine,Sunrise Ridge,3973030,402284,893.94,0,0,0,0,0,0,4,14,33,16.1,24.1,19.9,0.73
+138,High Acres,Spruce Pine,High Acres,3973260,401669,962.46,0,0,0,0,0,0,3,6,14,16.3,23,19.4,0.67
+139,Spring,Spruce Pine,Spring,3972020,402557,923.31,0,0,0,0,0,0,3,10,35,16,23.8,19.7,0.73
+140,Galax,Spruce Pine,Galax,3972700,404419,832.73,0,0,4,0,0,0,7,29,65,14.9,24.1,19.2,0.48
